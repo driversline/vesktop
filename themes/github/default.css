@@ -1,0 +1,59 @@
+/*
+GitHub Dark Theme - Discord
+*/
+
+:root {
+    --text-0: #f0f6fc;
+    --text-1: #c9d1d9;
+    --text-2: #b1bac4;
+    --text-3: #8b949e;
+    --text-4: #6e7681;
+    --text-5: #484f58;
+  
+    --bg-1: #161b22;
+    --bg-2: #0d1117;
+    --bg-3: #010409;
+    --bg-4: #0d1117;
+  
+    --hover: rgba(240, 246, 252, 0.1);
+    --active: rgba(240, 246, 252, 0.1);
+    --message-hover: transparent;
+
+    --accent-1: #58a6ff;
+    --accent-2: #1f6feb;
+    --accent-3: #388bfd;
+    --accent-new: #f85149;
+  
+    --mention: rgba(56, 139, 253, 0.1);
+    --reply: rgba(139, 148, 158, 0.1);
+
+    --online: #3fb950;     // В сети (зелёный)
+    --dnd: #f85149;        // Не беспокоить (красный)
+    --idle: #d29922;       // Неактивен (жёлтый)
+    --streaming: #a371f7;  // Стримит (фиолетовый)
+    --offline: #8b949e;    // Оффлайн (серый)
+}
+
+* {
+    animation: none !important;
+    transition: none !important;
+    border: none !important;
+}
+
+body {
+    --font: 'figtree';             // Шрифт
+    --gap: 14px;                   // Отступы между элементами
+    --divider-thickness: 4px;      // Толщина разделителей
+    --flipped-chatbar: off;
+    --chatbar-height: 48px;
+    --chatbar-padding: 16px;
+
+    --small-user-panel: off;
+    --transparency-tweaks: off;
+    --move-top-bar-buttons: off;
+    --custom-app-top-bar-height: 12px;
+}
+
+.title_c38106 { display: none !important; }
+.trailing_c38106 { display: none !important; }
+.flexChild__7c0ba { display: none !important; }
