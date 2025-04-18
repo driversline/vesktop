@@ -20,4 +20,4 @@
 
 - Добавляй в css тему [его скрытие](https://github.com/driversline/vesktop/blob/main/template/default.css).
 
-- Элемент пропадет после перезапуска Dicord (Ctrl + R).
+- Элемент пропадет после перезапуска Discord (Ctrl + R).
